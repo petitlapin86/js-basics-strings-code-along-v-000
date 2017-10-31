@@ -1,5 +1,6 @@
 // Write your code in this file!
-const currentUser = 'Grace Hopper';
+const currentUser = 'Grace Hopper'.slice();
+
 
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + "!";
 
